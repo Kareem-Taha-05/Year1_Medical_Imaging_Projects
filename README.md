@@ -18,7 +18,7 @@ Each folder in the repository represents a standalone project, complete with its
   - Interactive controls for image navigation, brightness/contrast, and zoom.
   - Supports DICOM and NIfTI formats with error handling for invalid files.
 - Technologies: Python, PyQt5, Matplotlib, pydicom, nibabel.
-- Readme: Task1 README
+- Readme: [README](https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects/tree/main/Task1)
 ## 3. Task2
 - Project Name: YOLO Player Tracker & Image Classifier
 - Description:
@@ -35,7 +35,7 @@ Each folder in the repository represents a standalone project, complete with its
     - Training pipeline for multi-class classification.
     - TensorFlow-based deep learning model.
 - Technologies: Python, YOLOv8, OpenCV, TensorFlow, Matplotlib, Tkinter.
-- Readme: Task2 README
+- Readme: [README 1 ](https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects/tree/main/Task2/ImageClassifier) [README 2](https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects/tree/main/Task2/YOLO)
 ## 4. Task3
 - Project Name: 3D Brain Puzzle Game
 - Description:
@@ -46,7 +46,7 @@ Each folder in the repository represents a standalone project, complete with its
   - Dynamic camera controls for 360° exploration of the puzzle.
   - Progress tracking and achievements for completing the puzzle efficiently.
 - Technologies: Unity, C#, Blender
-- Readme: Task3 README
+- Readme: [README](https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects/tree/main/Task3)
 ## 5. Task4
 - Project Name:  DICOM Viewer
 - Description:
@@ -60,13 +60,13 @@ Each folder in the repository represents a standalone project, complete with its
   - 3D Viewer:
     - Visualizes DICOM slices in a tiled layout for detailed analysis.
 Technologies: Python, Tkinter, pydicom, NumPy, Matplotlib.
-Readme: Task4 README
+Readme: [README](https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects/tree/main/Task4)
 ## 6. Task5
 - Project Name: Medical Image Editor
 - Description:
     - The Medical Image Editor is a comprehensive application for processing and analyzing medical image data, primarily in the DICOM format. It provides advanced features for editing, visualizing, and enhancing medical images, making it a valuable tool for professionals and researchers in the medical imaging field. The project leverages PyQt5 for the graphical user interface, OpenCV for image processing, and pydicom for handling DICOM files.
 
-- Readme: Task5 README
+- Readme: [README](https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects/tree/main/Task5)
 # Getting Started
 ## Prerequisites
 Each project has its own dependencies and setup instructions detailed in its respective README file. General prerequisites include:

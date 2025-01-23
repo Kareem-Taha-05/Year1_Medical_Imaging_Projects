@@ -61,14 +61,22 @@ Each folder in the repository represents a standalone project, complete with its
     - Displays DICOM tags and allows anonymization of sensitive data.
   - 3D Viewer:
     - Visualizes DICOM slices in a tiled layout for detailed analysis.
-Technologies: Python, Tkinter, pydicom, NumPy, Matplotlib.
-Readme: [README](https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects/tree/main/Task4)
+- Technologies: Python, Tkinter, pydicom, NumPy, Matplotlib.
+- Readme: [README](https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects/tree/main/Task4)
 ## 6. Task5
-- Project Name: Medical Image Editor
-- Description:
+- **Project Name**: Medical Image Editor
+- **Description**:
     - The Medical Image Editor is a comprehensive application for processing and analyzing medical image data, primarily in the DICOM format. It provides advanced features for editing, visualizing, and enhancing medical images, making it a valuable tool for professionals and researchers in the medical imaging field. The project leverages PyQt5 for the graphical user interface, OpenCV for image processing, and pydicom for handling DICOM files.
-
-- Readme: [README](https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects/tree/main/Task5)
+- **Key Features**:
+    - DICOM Image Support: Imports and normalizes DICOM files for visualization.
+    - Image Processing Tools: Includes noise addition, filters (Gaussian, median), morphological enhancements, contrast, brightness, and resolution adjustments.
+    - Zoom and Pan: Multiple zoom modes (e.g., bilinear, cubic).
+    - Histogram Visualization: Displays intensity histograms with statistical measures.
+    - SNR and CNR Analysis: Calculates Signal-to-Noise and Contrast-to-Noise Ratios using selected image regions.
+    - Fourier Filtering: Implements low-pass and high-pass filters with blending options.
+    - Interactive GUI: Built with PyQt5, featuring multiple viewports, sliders, buttons, and menus.
+- **Technologies Used**: PyQt5, pydicom, OpenCV, NumPy, Matplotlib.
+- **Readme**: [README](https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects/tree/main/Task5)
 # Getting Started
 ## Prerequisites
 Each project has its own dependencies and setup instructions detailed in its respective README file. General prerequisites include:

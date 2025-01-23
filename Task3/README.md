@@ -48,8 +48,8 @@ Built using Unity, the game leverages 3D physics, intuitive controls, and visual
   - Clone the Repository:
   - Clone the project files into your local system:
   ```bash
-  git clone https://github.com/yourusername/3d-brain-puzzle-game.git
-  cd 3d-brain-puzzle-game
+  git clone https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects.git
+  cd Year1_Medical_Imaging_Projects/Task3
   ```
   - Open the Project:
     - Open the project folder in Unity Hub and load the scene.

@@ -50,6 +50,7 @@ Built using Unity, the game leverages 3D physics, intuitive controls, and visual
   ```bash
   git clone https://github.com/yourusername/3d-brain-puzzle-game.git
   cd 3d-brain-puzzle-game
+  ```
   - Open the Project:
     - Open the project folder in Unity Hub and load the scene.
 

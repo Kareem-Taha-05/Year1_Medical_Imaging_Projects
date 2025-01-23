@@ -75,7 +75,7 @@ Each folder in the repository represents a standalone project, complete with its
     - SNR and CNR Analysis: Calculates Signal-to-Noise and Contrast-to-Noise Ratios using selected image regions.
     - Fourier Filtering: Implements low-pass and high-pass filters with blending options.
     - Interactive GUI: Built with PyQt5, featuring multiple viewports, sliders, buttons, and menus.
-- **Technologies Used**: PyQt5, pydicom, OpenCV, NumPy, Matplotlib.
+- **Technologies**: PyQt5, pydicom, OpenCV, NumPy, Matplotlib.
 - **Readme**: [README](https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects/tree/main/Task5)
 # Getting Started
 ## Prerequisites

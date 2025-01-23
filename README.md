@@ -96,5 +96,6 @@ cd repository-name
 2. [Omar Gamal](https://github.com/OmarGamalH)
 3. [Kareem Hassan](https://github.com/karimhassan-808)
 4. [Omar Amein](https://github.com/OmarAmein)
+5. [Sulaiman](https://github.com/SulaimanAlfozan)
 # License
 This repository is licensed under the MIT License.

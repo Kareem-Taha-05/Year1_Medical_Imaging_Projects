@@ -87,7 +87,6 @@ Each project has its own dependencies and setup instructions detailed in its res
   - 1. Clone the repository:
 ```
 git clone https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects.git
-cd repository-name
 ```
   - 2. Navigate to the desired project folder and follow the setup instructions in its README.
 

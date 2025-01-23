@@ -36,8 +36,8 @@ Each folder in the repository represents a standalone project, complete with its
     - TensorFlow-based deep learning model.
 - Technologies: Python, YOLOv8, OpenCV, TensorFlow, Matplotlib, Tkinter.
 - Readme:
-      - [README 1 ](https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects/tree/main/Task2/ImageClassifier)
-      - [README 2](https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects/tree/main/Task2/YOLO)
+    - [README 1 ](https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects/tree/main/Task2/ImageClassifier)
+    - [README 2](https://github.com/Kareem-Taha-05/Year1_Medical_Imaging_Projects/tree/main/Task2/YOLO)
 ## 4. Task3
 - Project Name: 3D Brain Puzzle Game
 - Description:

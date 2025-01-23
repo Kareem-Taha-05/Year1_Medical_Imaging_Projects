@@ -62,11 +62,11 @@ Each folder in the repository represents a standalone project, complete with its
 Technologies: Python, Tkinter, pydicom, NumPy, Matplotlib.
 Readme: Task4 README
 ## 6. Task5
-Project Name: Placeholder for now
-Description:
-The final task in the series, this project demonstrates a comprehensive understanding of the domain and integrates multiple technologies to solve a challenging problem.
-Technologies: To be updated based on the project details
-Readme: Task5 README
+- Project Name: Medical Image Editor
+- Description:
+    - The Medical Image Editor is a comprehensive application for processing and analyzing medical image data, primarily in the DICOM format. It provides advanced features for editing, visualizing, and enhancing medical images, making it a valuable tool for professionals and researchers in the medical imaging field. The project leverages PyQt5 for the graphical user interface, OpenCV for image processing, and pydicom for handling DICOM files.
+
+- Readme: Task5 README
 # Getting Started
 ## Prerequisites
 Each project has its own dependencies and setup instructions detailed in its respective README file. General prerequisites include:

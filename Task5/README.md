@@ -90,6 +90,16 @@ The Medical Image Editor is a comprehensive application for processing and analy
 
 8. **Exit the Application**:
     - Close the GUI window or terminate the application from the command line.
+# Photo
+![Image](https://github.com/user-attachments/assets/f9074268-bcd3-4b80-968b-74779208a2be)
+![Image](https://github.com/user-attachments/assets/598be92a-aaba-44f2-9be6-ac1f54463331)
+![Image](https://github.com/user-attachments/assets/98e3d1d9-3ee5-440a-bebd-aaf3a0318281)
+![Image](https://github.com/user-attachments/assets/ac144c23-a43b-4b4e-b2df-174317852af5)
+![Image](https://github.com/user-attachments/assets/97042fde-1a02-45d1-9b21-f7403167a035)
+![Image](https://github.com/user-attachments/assets/844a5bdf-d14c-4fea-80e2-32eec75b85ee)
+![Image](https://github.com/user-attachments/assets/f1632ce5-2bcd-4326-8fd4-b81f6c67b6d0)
 
+# Video
+https://github.com/user-attachments/assets/d20863aa-3f4d-4439-a057-003a3fc4bc4e
 ## License
 This project is licensed under the [MIT License](LICENSE).

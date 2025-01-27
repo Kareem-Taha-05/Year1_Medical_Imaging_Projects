@@ -117,5 +117,12 @@ calc2('field_background.jpg')  # Select points in the field image
 ## GUI Outputs:
   - Heatmaps visualizing player movements.
   - Interactive playback of processed videos.
+# Photos 
+![Image](https://github.com/user-attachments/assets/58e7dba9-6870-4273-8bc3-e4674ca0ffa5)
+![Image](https://github.com/user-attachments/assets/384a24de-b848-4994-ad90-51ccc2741f21)
+![Image](https://github.com/user-attachments/assets/1f95254a-4186-47a6-82dc-0409ef06fd3c)
+# Video 
+https://github.com/user-attachments/assets/f881b261-9f83-4fa8-97ce-75ccbb2dd514
+
 # License
 This project is licensed under the MIT License.

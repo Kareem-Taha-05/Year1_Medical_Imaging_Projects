@@ -75,6 +75,16 @@ It uses PyQt5 for the user interface, pydicom for processing DICOM files, and Nu
 
 6. Error Notifications: If any invalid file or folder is selected, the application will provide warnings and handle the error gracefully.
 7. Exit the Application: Close the GUI window or press **Ctrl+C** in the terminal.
+# Photos 
+![Image](https://github.com/user-attachments/assets/ad3e585e-7e48-4332-bc1d-c18c357c0e79)
+![Image](https://github.com/user-attachments/assets/a1686fa3-6620-4132-b182-fb643e130fc3)
+![Image](https://github.com/user-attachments/assets/64925f23-379e-40f4-af7c-1613fd3b7dfd)
+![Image](https://github.com/user-attachments/assets/9cf5170a-fb1d-458b-a091-30d758540de2)
+![Image](https://github.com/user-attachments/assets/073f8bb3-c159-4a62-8735-571cfd487a72)
+![Image](https://github.com/user-attachments/assets/eb18211b-25c8-460b-a352-6b9423ea1279)
 
+# Video
+
+https://github.com/user-attachments/assets/93210dcb-44cd-4bd6-a2e9-d3d591be0d9d
 # LICENSE
 This project is licensed under the [MIT License](../LICENSE.txt).

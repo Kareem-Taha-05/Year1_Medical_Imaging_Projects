@@ -130,6 +130,10 @@ The project uses PyQt5 for the graphical user interface, matplotlib for renderin
     - Use "Zoom In" or "Zoom Out" to magnify or shrink a specific region.
 6. Error Notifications: If any invalid file or folder is selected, the application will provide warnings and handle the error gracefully.
 7. Exit the Application: Close the GUI window or press **Ctrl+C** in the terminal.
+# Photos
+![Image](https://github.com/user-attachments/assets/835db456-ca8e-470e-9231-b77f36223118)
+
+![Image](https://github.com/user-attachments/assets/00d95091-3c1f-4f81-9c02-4ab254518ef2)
 # Video
 https://github.com/user-attachments/assets/af8d3366-2321-4864-9fe0-ecd4f9bfd52b
 # LICENSE

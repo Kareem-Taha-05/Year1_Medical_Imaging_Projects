@@ -54,7 +54,7 @@ The system leverages TensorFlow for building and training models, Tkinter for cr
 ## Training the Model
 - **1. Set Up Google Colab**:
     - Upload the training script to Google Colab.
-    - Mount your Google Drive:
+    - Mount your Google Drive:       ( or use this [Training DataSet](https://drive.google.com/drive/folders/1QKBY2AZs-VXAgsRsJu0PHWKcZuPCwQYf) instead )
     ```
     from google.colab import drive
     drive.mount('/content/drive')

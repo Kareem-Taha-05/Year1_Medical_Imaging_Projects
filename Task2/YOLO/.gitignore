@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+wheels/
+
+# Virtual environment
+venv/
+ENV/
+env/
+env.bak/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# YOLO model files
+yolov5/  # Adjust if you're using a specific YOLO directory or library
+*.weights
+*.onnx
+*.engine
+*.pt
+
+# Output files
+*.jpg
+*.png
+*.bmp
+*.mp4
+*.avi
+output/
+
+# Pickle files and other data
+*.pkl
+*.npy
+*.npz
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Matplotlib figure files
+*.pdf
+*.svg
+
+# Debugging tools
+*.prof
+*.coverage
+htmlcov/
+
+# Ignore specific files
+field_background.jpg
+tracked_players.mp4
+last_frame.jpg
